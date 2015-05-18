@@ -8,13 +8,12 @@
 
 - title: Results
   url: /results/
-  
-  title: Open Data
+
+- title: Data
   url: /data/
-  
-  title: rddtools package
+
+- title: rddtools
   url: /rddtools/
-  
-  title: Information
+
+- title: Information
   url: /admin/
-  
