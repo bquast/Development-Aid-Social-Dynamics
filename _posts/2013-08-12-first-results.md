@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "First impactg evalution results"
+title: "First impact evalution results"
 excerpt: "first results of the impact evaluation"
 share: true
 ---
