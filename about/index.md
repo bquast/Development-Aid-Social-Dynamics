@@ -10,7 +10,7 @@ image:
 
 ## General Information
 
-The project "Development Aid and Social Dynamics" is funded by the Swiss National Science Fund (Schweizer National Fonds / Fond Nationale Suisse).
+The project "Development Aid and Social Dynamics" is funded by the Swiss National Science Fund (Schweizer National Fonds / Fond Nationale Suisse) under project number `100018_140745`.
 
 The project is headed by Professor Jean-Louis Arcand of The Graduate Institute in Geneva.
 
