@@ -7,4 +7,10 @@ image:
   feature: sample-image-3.jpg
 ---
 
-We hereby publis the R package `rddtools`.
+The rddtools package can be installed from GitHub using the devtools package.
+
+{% highlight r %} if (!require('devtools')) install.packages('devtools') devtools::install_github("bquast/rddtools") {% endhighlight %}
+
+We can now load the package and inspect the vignette.
+
+{% highlight r %} library(rddtools) vignette(rddtools) {% endhighlight %}
