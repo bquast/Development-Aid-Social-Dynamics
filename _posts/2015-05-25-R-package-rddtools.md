@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "R package `rddtools`"
+title: "R package rddtools"
 author: bastiaan_quast
 modified:
 excerpt: "An R package for Regression Discontinuity Design"
